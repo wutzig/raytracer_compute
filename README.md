@@ -1,2 +1,2 @@
 # raytracer_compute
-an interactive raytracer using OpenGL's compute shader
+a simple interactive ray tracer using OpenGL's compute shader
